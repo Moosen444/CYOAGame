@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+html{
+  background-color: black;
+}
+
+div{
+  background-color: black;
+  color: white;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: black;
+  min-height: 75vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Box{
+  background-color: #00f160;
+  border: 100px;
+  padding: 25px;
+  margin: 25px;
+  color: #B80000
+}
+
+button{
+  background-color: #5300BB;
+  color: white;
+}
